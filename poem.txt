@@ -8,6 +8,8 @@ yellow
 
 red
 
+Indigo
+
 green
 
 unicorn
