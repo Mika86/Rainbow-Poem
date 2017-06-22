@@ -1,4 +1,4 @@
-The rainbow
+The rainbow and the unicorn
 
 purple
 
@@ -10,4 +10,6 @@ red
 
 green
 
-these are not all the colors of rainbow. 
+unicorn
+
+these are not all the colors of rainbow and unicorn
